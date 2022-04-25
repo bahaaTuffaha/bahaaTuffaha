@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bahaa Tuffaha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [http://bahaa-tuffaha.herokuapp.com/](http://bahaa-tuffaha.herokuapp.com/)
+- 👨‍💻 My portfolio [http://bahaa-tuffaha.herokuapp.com/](http://bahaa-tuffaha.herokuapp.com/)
 
 - 💬 Ask me about **react**
 
