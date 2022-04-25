@@ -3,8 +3,6 @@
 
 - 👨‍💻 My portfolio [http://bahaa-tuffaha.herokuapp.com/](http://bahaa-tuffaha.herokuapp.com/)
 
-- 💬 Ask me about **react**
-
 - 📫 How to reach me **bahaa@kiitos-tech.com**
 
 <h3 align="left">Connect with me:</h3>
