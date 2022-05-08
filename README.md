@@ -3,7 +3,7 @@
 
 - 👨‍💻 My portfolio [http://bahaa-tuffaha.herokuapp.com/](http://bahaa-tuffaha.herokuapp.com/)
 
-- 📫 How to reach me **bahaa@kiitos-tech.com**
+- 📫 How to reach me **bahaa.tuffaha@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
