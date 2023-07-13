@@ -5,7 +5,7 @@
       height="150"
       width="220" />
       
-- 👨‍💻 My portfolio [bahaa-tuffaha](http://bahaa-tuffaha.herokuapp.com/)
+- 👨‍💻 My portfolio [bahaa-tuffaha](https://bahaa-tuffaha.netlify.app/)
 
 - 📫 How to reach me **bahaa.tuffaha@yahoo.com**
 
